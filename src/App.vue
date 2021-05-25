@@ -7,7 +7,7 @@ export default {
   name: "App",
   data() {
     return {
-      value: "World"
+      value: "World, This is a demo application"
     };
   }
 };
